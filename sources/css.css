@@ -22,3 +22,20 @@
   font-weight: 700;
   src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v12/d-6IYplOFocCacKzxwXSOFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2'), url(https://fonts.gstatic.com/s/roboto/v12/d-6IYplOFocCacKzxwXSOD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
 }
+
+
+.content-text {
+	font-size: 13px;
+}
+
+.job-headers {
+	color: #990099;
+}
+
+#sidebar p strong {
+	color: #990099;
+}
+
+#skills ul li {
+	color: #39004d;
+}

@@ -138,7 +138,7 @@
 				<div id="top-bar" class="clearfix">
 					<div class="col-md-12">					
 						<div class="col-md-6" id="skypeId"><p class="text-center"><strong>SKYPE:</strong> vishakvn</p></div>
-						<div class="col-md-6"><p class="text-center"><strong>EMAIL:</strong> v@vishak.me</p></div>
+						<div class="col-md-6"><p class="text-center"><strong>EMAIL:</strong> vishak.nair88@gmail.com</p></div>
 					</div>
 				</div>
 				<!-- End Top Bar -->
@@ -160,8 +160,8 @@
 								<div class="title-box first">
 									<h3 class="title"><span class="icon"><i class="fa fa-crosshairs"></i></span>About Me</h3>
 								</div>
-								<div class="details" align="justify">
-                                    <p>I am a Computer Science Engineer with 9+ years experience in programming, debugging, deployment, requirement analysis, documentation, team management, sales & marketing etc. and hence have been involved in the entire SDLC cycle. Being a full-stack developer who loves learning new technologies in web development, I like to utilize my existing skills sets to convert business needs to technical possibilities. I can learn and master new programming languages, APIs & platforms quickly  and easily, as long as they are documented. I am good with logic and my programming skills are not limited to a particular language, though I have most experience with PHP and JavaScript. I constantly seek opportunities where I can learn something new and contribute towards the success of the organization/stakeholders engaging me.</p>
+								<div class="details content-text" align="justify">
+                                    <p>&nbsp;&nbsp;&nbsp;&nbsp;I am a Computer Science Engineer with 9+ years experience in programming, debugging, deployment, requirement analysis, documentation, team management, sales & marketing etc. and hence have been involved in the entire SDLC cycle. Being a full-stack developer who loves learning new technologies in web development, I like to utilize my existing skills sets to convert business needs to technical possibilities. I can learn and master new programming languages, APIs & platforms quickly  and easily, as long as they are documented. I am good with logic and my programming skills are not limited to a particular language, though I have most experience with PHP and JavaScript. I constantly seek opportunities where I can learn something new and contribute towards the success of the organization/stakeholders engaging me.</p>
                                 </div>
 							</section>							
 							<!-- End Objective -->
@@ -174,12 +174,12 @@
 								<div class="details">
 									<ul class="striped">
 										<li class="clearfix">
-											<div class="col-lg-3 col-md-4"><p style="font-size: 16px"><b>Sep 2011 - Present</b></p></div>
-											<div class="col-lg-9 col-md-8">
+											<div class="col-lg-3 col-md-4 job-headers"><p style="font-size: 19px"><b>Sep 2011 - Present</b></p></div>
+											<div class="col-lg-9 col-md-8 job-headers">
                                                 <p>
                                                     <strong>oDesk Freelancer</strong>, Internet<br>
                                                     <span class=""><em>Freelance Full Stack Developer/Architect</em></span>
-                                                    <span><a href="https://www.upwork.com/o/profiles/users/_~01b852a729555f0060/" target="_blank">Profile Link</a> </span>
+                                                    <!-- <span><a href="https://www.upwork.com/o/profiles/users/_~01b852a729555f0060/" target="_blank">Profile Link</a> </span> -->
                                                 </p>
                                             </div>
                                             <div class="col-lg-12 col-md-12" align="justify"><p>
@@ -190,8 +190,8 @@
 
 										</li>
                                         <li class="bg-gray1 clearfix">
-                                            <div class="col-lg-3 col-md-4"><p style="font-size: 16px"><b>Sep 2011 - July 2014</b></p></div>
-                                            <div class="col-lg-9 col-md-8"><p><strong>Satnyx Solutions Pvt. Ltd.</strong>, Pune<br><span class=""><em>CTO</em></span></p>
+                                            <div class="col-lg-3 col-md-4 job-headers"><p style="font-size: 19px"><b>Sep 2011 - July 2014</b></p></div>
+                                            <div class="col-lg-9 col-md-8 job-headers"><p><strong>Satnyx Solutions Pvt. Ltd.</strong>, Pune<br><span class=""><em>CTO</em></span></p>
                                             </div>
                                             <div class="col-lg-12 col-md-12" align="justify"><p>
                                                 &nbsp;&nbsp;&nbsp;Realizing the amazing potentail that I had gained during my work as a freelancer on oDesk and Independently on the Internet, We gathered a few small projects from clients online and put together a small team of 8 people with the help of my partner. We went on to implement a government project in Pune, Maharashtra. The project involved implementing a portal for Slum Rehabiliation Authority, Pune, for their Housing Allocation Scheme.
@@ -200,8 +200,8 @@
 
                                         </li>
                                         <li class="clearfix">
-                                            <div class="col-lg-3 col-md-4"><p style="font-size: 16px"><b>Nov 2013 - Mar 2014 &<br />Nov 2014 - Mar 2015</b></p></div>
-                                            <div class="col-lg-9 col-md-8"><p><strong>InCaptus, Inc.</strong>, Online<br><span class=""><em>Freelance Application Developer</em></span></p>
+                                            <div class="col-lg-3 col-md-4 job-headers"><p style="font-size: 19px"><b>Nov 2013 - Mar 2014 &<br />Nov 2014 - Mar 2015</b></p></div>
+                                            <div class="col-lg-9 col-md-8 job-headers"><p><strong>InCaptus, Inc.</strong>, Online<br><span class=""><em>Freelance Application Developer</em></span></p>
                                             </div>
                                             <div class="col-lg-12 col-md-12" align="justify"><p>
                                                 &nbsp;&nbsp;&nbsp;Front-End and Back-End feature additions to Node.js/ MongoDb/ Angular based application. Designed and developed Messaging & Notification features on a document collaboration platform for the pharmaceutical industry .
@@ -209,18 +209,18 @@
 
                                         </li>
                                         <li class="bg-gray1 clearfix">
-                                            <div class="col-lg-3 col-md-4"><p style="font-size: 16px"><b>Apr. 2011 - Apr. 2012</b></p></div>
-                                            <div class="col-lg-9 col-md-8"><p><strong>Cognizant Technology Solutions</strong>, Pune<br><span class=""><em>Programmer Analyst</em></span></p>
+                                            <div class="col-lg-3 col-md-4 job-headers"><p style="font-size: 19px"><b>Apr. 2011 - Apr. 2012</b></p></div>
+                                            <div class="col-lg-9 col-md-8 job-headers"><p><strong>Cognizant Technology Solutions</strong>, Pune<br><span class=""><em>Programmer Analyst</em></span></p>
                                             </div>
-                                            <div class="col-lg-12 col-md-12" align="justify"><p>
+                                            <div class="col-lg-12 col-md-12 content-text" align="justify"><p>
                                                 &nbsp;&nbsp;&nbsp;Cognizant trained me for 3 months in Microsoft MySql Server and .NET technologies and then deployed me in a project for Merck Pharmaceuticals. During my work there I was part of support and development teams of Univadis Portal, a Portal for doctors to gain insights into latest research in their respective fields. During the support phase I was part of Sharepoint 2007 Level 2 & 3 support team. My chief duty was to monitor incoming tickets and provide support as per the defined support priorities and SoPs(Standard Operating Procedures). During the development phase I used to develop XSLT webparts & performed List manipulation programming for Sharepoint 2010 on the Univadis v2 portal using the Agile methodology since I was a part of 400 member team.
                                                 </p>
                                             </div>
 
                                         </li>
 										<li class="clearfix">
-											<div class="col-lg-3 col-md-4"><p style="font-size: 16px"><b>Dec. 2010 - Mar.2011</b></p></div>
-											<div class="col-lg-9 col-md-8"><p><strong>Educational Initiatives Pvt. Ltd</strong>, Ahmedabad<br><span class=""><em>Jr. Software Engineer</em></span></p>
+											<div class="col-lg-3 col-md-4 job-headers"><p style="font-size: 19px"><b>Dec. 2010 - Mar.2011</b></p></div>
+											<div class="col-lg-9 col-md-8 job-headers"><p><strong>Educational Initiatives Pvt. Ltd</strong>, Ahmedabad<br><span class=""><em>Jr. Software Engineer</em></span></p>
                                             </div>
                                             <div  class="col-lg-12 col-md-12" align="justify">
                                                 <p>&nbsp;&nbsp;&nbsp;Bhutan Project: This project relates to child, teacher and school performance tracking throughout Bhutan. I had worked on the modules relating to teacher training exercises conducted throughout the country. Had developed modules to record, view, search and generate reports regarding the trainings organized at various levels. Design and create backend database structure in MySql to hold the massive amount of data.
@@ -231,8 +231,8 @@
 
                                         </li>
 										<li class="bg-gray1 clearfix">
-											<div class="font18 col-lg-3 col-md-4"><p style="font-size: 16px"><b>Jun. 2010 - Nov. 2010</b></p></div>
-											<div class="col-lg-9 col-md-8"><p><strong>Daemon Information Systems</strong>, Ahmedabad<br><span class=""><em>Jr. Software Engineer</em></span></p>
+											<div class="font18 col-lg-3 col-md-4 job-headers"><p style="font-size: 19px"><b>Jun. 2010 - Nov. 2010</b></p></div>
+											<div class="col-lg-9 col-md-8 job-headers"><p><strong>Daemon Information Systems</strong>, Ahmedabad<br><span class=""><em>Jr. Software Engineer</em></span></p>
                                             </div>
                                             <div class="col-lg-12 col-md-12" align="justify">
                                                 <p>&nbsp;&nbsp;&nbsp;Created a web based custom CRM (Customer Relation Management) for a mid-sized Cartridge trading business. The CRM would be used to manage sales, book orders, dispatch products, manage issues and provide customer support. This application was created based on the architecture described below. I had also worked on the documentation for this project including the Project Scope, Time Estimation, Operating Instructions, Business Rules etc.
@@ -261,15 +261,15 @@
 								<h3 class="title"><span class="icon"><i class="fa fa-code"></i></span>Coding Lang.</h3>
 							</div>
 							<div class="details">
-								<p><strong>PHP:</strong> Advanced</p>
-								<p><strong>MySql:</strong> Advanced</p>
-								<p><strong>JavaScript:</strong> Advanced</p>
-								<p><strong>Node.js:</strong> Advanced</p>
-								<p><strong>MongoDb:</strong> Advanced</p>
-								<p><strong>SharePoint 2010:</strong> Novice</p>
-								<p><strong>CSS:</strong> Advanced</p>
-								<p><strong>SQL Server:</strong> Intermediate</p>
-								<p><strong>Apache Solr:</strong> Novice</p>
+								<p><strong>PHP:</strong> <span style="color:#004d00">Advanced</span></p>
+								<p><strong>MySql:</strong> <span style="color:#004d00">Advanced</span></p>
+								<p><strong>JavaScript:</strong> <span style="color:#004d00">Advanced</span></p>
+								<p><strong>Node.js:</strong> <span style="color:#004d00">Advanced</span></p>
+								<p><strong>MongoDb:</strong> <span style="color:#004d00">Advanced</span></p>
+								<p><strong>SharePoint 2010:</strong> <span style="color:#e6b800">Novice</span></p>
+								<p><strong>CSS:</strong> <span style="color:#004d00">Advanced</span></p>
+								<p><strong>SQL Server:</strong> <span style="color:#ff3333">Intermediate</span></p>
+								<p><strong>Apache Solr:</strong> <span style="color:#e6b800">Novice</span></p>
                             </div>
 						</section>
 
@@ -279,15 +279,15 @@
                             </div>
                             <div class="details">
                                 <p><strong>English:</strong></p>
-                                <p class="additional">Spoken: Advanced<br>Written: Advanced</p>
+                                <p class="additional">Spoken: <span style="color:#004d00">Advanced</span><br>Written: <span style="color:#004d00">Advanced</span></p>
                                 <p><strong>Hindi:</strong></p>
-                                <p class="additional">Spoken: Advanced<br>Written: Basic</p>
+                                <p class="additional">Spoken: <span style="color:#004d00">Advanced</span><br>Written: <span style="color:#e6b800">Basic</span></p>
                                 <p><strong>Malayalam:</strong></p>
-                                <p class="additional">Spoken: Advanced<br>Written: Can Read</p>
+                                <p class="additional">Spoken: <span style="color:#004d00">Advanced</span><br>Written: <span style="color:#e6b800">Can Read</span></p>
                                 <p><strong>Gujarati:</strong></p>
-                                <p class="additional">Spoken: Intermediate<br>Written: Basic</p>
+                                <p class="additional">Spoken: <span style="color:#ff3333">Intermediate</span><br>Written: <span style="color:#e6b800">Basic</span></p>
                                 <p><strong>Tamil:</strong></p>
-                                <p class="additional">Spoken: Basic<br>Written: NA</p>
+                                <p class="additional">Spoken: <span style="color:#e6b800">Basic</span><br>Written: NA</p>
                             </div>
                         </section>
 
@@ -340,7 +340,7 @@
                                 <div class="row">
                                     <div class="col-md-12">
                                         <ul>
-                                            <li>Quick & Eager Learner<div class="skills" data-percentage="10"></div></li>
+                                            <li><b>Quick & Eager Learner</b><div class="skills" data-percentage="10"></div></li>
                                             <li>Good with Logic & Maths<div class="skills" data-percentage="10"></div></li>
                                             <li>Programming in LAMP<div class="skills" data-percentage="9"></div></li>
                                             <li>Programming in MEAN<div class="skills" data-percentage="7"></div></li>
@@ -439,7 +439,7 @@
 							<h3 class="title"><span class="icon"><i class="fa fa-bullhorn"></i></span>Contact</h3>
 						</div>
 						<div class="details row">
-							<p>Email: <strong>v@vishak.me</strong></p>
+							<p>Email: <strong>vishak.nair88@gmail.com</strong></p>
 							<p>Skype: <strong>vishakvn</strong></p>
 						</div>
 					</section>

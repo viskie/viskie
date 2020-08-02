@@ -208,7 +208,7 @@
 }
 
 .bg-color2 {
-  background: #7744bb;
+  background: #5900b3;
 }
 
 .color1 {
@@ -216,7 +216,7 @@
 }
 
 .color2 {
-  color: #7744bb;
+  color: #5900b3;
 }
 
 .bg-gray1 {
@@ -603,8 +603,8 @@ a.btn.btn-link {
 }
 
 #mainmenu ul li a {
-  background: #ffffff;
-  color: #999999;
+  background: #5900b3;
+  color: #ffffff;
   margin: 0;
   padding: 8px 19px 5px 19px;
   border: 0;
@@ -621,12 +621,12 @@ a.btn.btn-link {
 
 #mainmenu ul li a:hover,
 #mainmenu ul li a:focus {
-  border-color: #4499ee;
+  border-color: #990099;
 }
 
 #mainmenu ul li a:active,
 #mainmenu ul li a.active {
-  background: #4499ee;
+  background: #990099;
   color: #ffffff;
   border-color: #157fea;
 }
@@ -674,14 +674,15 @@ ul#social li a.active {
 /* Top Bar */
 
 #top-bar {
-  background: #4499ee;
+  background: #5900b3;
   color: #ffffff;
   line-height: 30px;
   margin: 0;
   padding: 20px 0 10px 0;
   border: 0;
   border-bottom: 8px solid #ffffff;
-  font-size: 18px;
+  font-size: 21px;
+  font-weight: 400;
 }
 
 /* Header */
@@ -690,7 +691,7 @@ ul#social li a.active {
   margin: 0;
   padding: 0;
   border: 0;
-  background: #4499ee url('../sources/header-pattern.png') 0 0 repeat;
+  background: #990099 url('../sources/header-pattern.png') 0 0 repeat;
   color: #ffffff;
   position: relative;
   -webkit-transition: all 1s ease;
@@ -762,7 +763,7 @@ ul#social li a.active {
   left: -15px;
   border-style: solid;
   border-width: 15px 15.5px 0 15.5px;
-  border-color: #4499ee transparent transparent transparent;
+  border-color: #5900b3 transparent transparent transparent;
   z-index: 2;
 }
 
@@ -772,7 +773,7 @@ ul#social li a.active {
   border: 0;
   line-height: 76px;
   font-size: 66px;
-  font-weight: 300;
+  font-weight: 525;
   color: #ffffff;
 }
 
@@ -782,7 +783,7 @@ ul#social li a.active {
   border: 0;
   line-height: 26px;
   font-size: 26px;
-  font-weight: 300;
+  font-weight: 500;
   color: #ffffff;
 }
 
@@ -805,7 +806,7 @@ ul#social li a.active {
 .title-box .title {
   margin: 0;
   padding: 15px 0 0 0;
-  color: #4499ee;
+  color: #5900b3;
   font-size: 20px;
   font-weight: 600;
   line-height: 49px;
@@ -822,7 +823,7 @@ ul#social li a.active {
   padding: 0;
   margin-right: 15px;
   text-align: center;
-  background: #4499ee;
+  background: #5900b3;
   color: #ffffff;
   float: left;
   vertical-align: top;
@@ -833,7 +834,7 @@ ul#social li a.active {
 }
 
 .details {
-  color: #666666;
+  color: #39004d;
   margin: 0 0 0 0px;
   padding: 15px 0 0 0;
   border: 0;
@@ -843,7 +844,7 @@ ul#social li a.active {
   margin: 11px 0 13px 0;
   padding: 0;
   border: 0;
-  color: #4499ee;
+  color: #990099;
   font-weight: bold;
 }
 
@@ -868,8 +869,8 @@ ul#social li a.active {
   margin: 0;
   padding: 0 0 5px 0;
   border: 0;
-  font-size: 18px;
-  font-weight: 300;
+  font-size: 19px;
+  font-weight: 400;
 }
 
 .details ul li p {
@@ -877,7 +878,7 @@ ul#social li a.active {
   padding: 0;
   border: 0;
   line-height: 1em;
-    font-size: 16px;
+  font-size: 21px;
 }
 
 .details ul li.last,
@@ -910,15 +911,15 @@ ul#social li a.active {
 }
 
 .details .skills .bullet.active {
-  background: #4499ee;
+  background: #5900b3;
 }
 
 .details p {
   margin: 9px 0 0 15px;
   padding: 0;
   border: 0;
-  font-size: 18px;
-  font-weight: 300;
+  font-size: 21px;
+  font-weight: 420;
   line-height: 1.1em;
   font-family: 'Roboto', 'sans-serif';
 }
@@ -964,19 +965,19 @@ ul#social li a.active {
 }
 
 #sidebar .title-box {
-  border-color: #7744bb;
+  border-color: #5900b3;
 }
 
 #sidebar .title-box .title {
-  color: #7744bb;
+  color: #5900b3;
 }
 
 #sidebar .title-box .title .icon {
-  background: #7744bb;
+  background: #5900b3;
 }
 
 #sidebar .details {
-  color: #666666;
+  color: #39004d;
   margin: 0;
   padding: 0;
   border: 0;
@@ -988,7 +989,7 @@ ul#social li a.active {
   border: 0;
   line-height: 1em;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 #sidebar .details p.additional {
@@ -998,7 +999,7 @@ ul#social li a.active {
 }
 
 #sidebar a {
-  color: #7744bb;
+  color: #5900b3;
 }
 
 .pageNumber {
@@ -1006,7 +1007,7 @@ ul#social li a.active {
   padding: 17px 0 4px 0;
   border: 0;
   width: 100%;
-  background: #4499ee;
+  background: #5900b3;
   color: #ffffff;
   font-size: 1.4em;
   font-weight: 300;
@@ -1258,8 +1259,8 @@ ul#social li a.active {
 
 .work .mask .content .align .options a:hover,
 .work .mask .content .align .options a:focus {
-  background: #7744bb;
-  border-color: #7744bb;
+  background: #5900b3;
+  border-color: #5900b3;
   color: #ffffff;
 }
 
@@ -1354,7 +1355,7 @@ label {
   padding: 0;
   border: 0;
   font-weight: normal;
-  color: #7744bb;
+  color: #5900b3;
 }
 
 label.error {
@@ -1537,7 +1538,7 @@ img.largescreen {
 #mainmenu a#mobile-nav-close:focus,
 #mainmenu a#mobile-nav-button:active,
 #mainmenu a#mobile-nav-close:active {
-  background: #7744bb;
+  background: #5900b3;
 }
 
 #mainmenu a#mobile-nav-close {
