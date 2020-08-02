@@ -410,6 +410,13 @@
                                     </div>
                                     <div class="col-lg-3 col-md-4"><p>2006 - 2010</p></div>
                                 </li>
+                                <li class="clearfix">
+                                    <div class="col-lg-9 col-md-8">
+                                        <p><strong>Paris School Of Busniess</strong>, Paris<br>
+                                            <span class=""><em>Masters in International Management<br />NC</em></span></p>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4"><p>2019-2020</p></div>
+                                </li>
 
                             </ul>
                         </div>
