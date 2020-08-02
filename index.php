@@ -415,7 +415,7 @@
                                         <p><strong>Paris School Of Busniess</strong>, Paris<br>
                                             <span class=""><em>Masters in International Management<br />NC</em></span></p>
                                     </div>
-                                    <div class="col-lg-3 col-md-4"><p>2019-2020</p></div>
+                                    <div class="col-lg-3 col-md-4"><p>2019 - 2020</p></div>
                                 </li>
 
                             </ul>
